@@ -1,5 +1,5 @@
 ---
-title: How to build an Application with modern Technology
+title: gggg
 meta_title: ''
 description: ''
 date: 2022-04-04T05:00:00.000Z
