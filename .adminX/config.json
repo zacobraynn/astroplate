@@ -14,10 +14,12 @@
       "weight": 1
     },
     "src/content/blog": {
-      "weight": 0
+      "weight": {
+        "weight": 2
+      }
     },
     "src/content/authors": {
-      "weight": 2
+      "weight": 0
     },
     "src/content/contact": {
       "weight": 3
