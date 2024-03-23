@@ -1,27 +1,21 @@
 ---
-title: Updated Title!!
-meta_title: Updated meta title!
+title: ldskjfdslkfj
+meta_title: ''
 description: this is meta description
 date: 2022-04-04T05:00:00.000Z
-image: /banner.png
-categories: []
-author: Farhad
-tags: []
+image: /images/image-placeholder.png
+categories:
+  - Application
+  - Data
+author: John Doe
+tags:
+  - nextjs
+  - tailwind
 draft: false
 ---
-Part of [Hotwire](https://turbo.hotwired.dev/) are Turbo Frames. They allow you to insert a page, or just a part of it, into another page.
-I've found this feature quite magical when it was released. 🪄
-But it would be useful to apply some Css conditionally, based if the page was viewed standalone or within a turbo frame.
-Previously, and still valid, way to do this was adding a wrapper/container class around the turbo-frame and nested the css within here.
-With Tailwind Css this is easier to do. Let's take the following example from [Helptail](https://helptail.com/) (Spinal's internally developed email support tool for calm SaaS companies):
-|Hello|Hello|
-|---|---|
-|sdfsdf|sdfdfsd|
-
-This is the email composer on a standalone page.
-# Heading 1
-## Heading 2
-### Heading 3
-### Code code
-### 
-![image](/banner.png "")
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Creative Design
+Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
