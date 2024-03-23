@@ -14,21 +14,21 @@
       "weight": 1
     },
     "src/content/blog": {
+      "weight": 3
+    },
+    "src/content/authors": {
       "weight": {
         "weight": 2
       }
     },
-    "src/content/authors": {
-      "weight": 0
-    },
     "src/content/contact": {
-      "weight": 3
-    },
-    "src/content/homepage": {
       "weight": 4
     },
-    "src/content/pages": {
+    "src/content/homepage": {
       "weight": 5
+    },
+    "src/content/pages": {
+      "weight": 0
     },
     "src/content/sections": {
       "weight": 6
