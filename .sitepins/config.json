@@ -9,6 +9,14 @@
   "themeConfig": [
     "src/config"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content/blog",
+      "groupName": "NEWS",
+      "include": "",
+      "exclude": ""
+    }
+  ],
   "showCommitModal": true
 }
