@@ -1,5 +1,5 @@
 content:
   - name: posts
     label: Posts
-    path: src/_posts
+    path: src/content/blog
     type: collection
